@@ -1,5 +1,5 @@
 
-#  Hola! soy Hairaly
+#  Hola! Soy Hairaly
 ¡Hola! Soy estudiante de cuarto semestre de Ingeniería en Sistemas Computacionales, apasionada por el mundo de la tecnología.
 
 De lo que llevo de mi carrera, me he enfocado en profundizar mis conocimientos en programación, diseño web y con el desarrollo de soluciones tecnológicas innovadoras. Mi interés por aprender y mejorar constantemente me motiva a explorar nuevas herramientas y lenguajes que me permitan crear experiencias digitales únicas y funcionales.
